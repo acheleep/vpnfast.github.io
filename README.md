@@ -484,7 +484,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 **本文会根据测评情况和使用体验，定期更新排名，如果觉得内容有用的话，欢迎添加收藏。**
 
-## <a rel="noopener" href="qiangwaikan.com/best-vpn-china/" target="_blank">好用的中国VPN推荐</a>的标准
+## <a rel="noopener" href="https://qiangwaikan.com/best-vpn-china/" target="_blank">好用的中国VPN推荐</a>的标准
 
 我们的VPN推荐基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名j及我分享的最新使用信息，而不是盲目的付费购买。
 
